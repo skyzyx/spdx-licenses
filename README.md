@@ -6,3 +6,13 @@ A JSON conversion of the list of licenses from http://spdx.org/licenses/.
 
 This JSON version of the list is released to the
 [Public Domain](https://secure.wikimedia.org/wikipedia/en/wiki/Public_Domain).
+
+## Composer
+PHP developers can use the following [Composer](https://github.com/composer/composer) dependency in their
+`composer.json` file:
+
+	{
+		"require": {
+			"skyzyx/spdx-licenses": ">=1.0"
+		}
+	}
