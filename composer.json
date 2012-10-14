@@ -1,0 +1,14 @@
+{
+	"name": "skyzyx/spdx-licenses",
+	"description": "A JSON version of the list of licenses from http://spdx.org/licenses/.",
+	"type": "library",
+	"version": "1.0",
+	"keywords": ["license"],
+	"license": "Public Domain",
+	"authors": [
+		{
+			"name": "Contributors",
+			"homepage": "http://github.com/skyzyx/spdx-licenses/contributors"
+		}
+	]
+}
